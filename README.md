@@ -1,5 +1,3 @@
-# rules_docker_for_insecure_registries
+This repo is moved to [https://github.com/backendcloud/rules_docker_for_insecure_registries](https://github.com/backendcloud/rules_docker_for_insecure_registries). 
 
-rules_docker_for_insecure_registries
-
-releases pages download
+This repo is archived.
